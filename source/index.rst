@@ -16,3 +16,34 @@ Python in Excelの紹介（仮）
 * Python歴は13年くらい（主にDjango）
 * Python Boot Camp、Shonan.py、GCPUG Shonanなどコミュニティ活動もしています
 * 著書（共著）：『 `Python実践レシピ <https://gihyo.jp/book/2022/978-4-297-12576-9>`_ 』
+
+今日話したいこと
+----------------
+
+TODO あとで書く
+
+セミナーの構成
+--------------
+
+* Python in Excelの概要
+* Python in Excelの使い方（基本編）
+* Python in Excelの使い方（応用編）
+* Copilot for Microsoft 365サポートについて紹介
+
+Python in Excelの概要
+=====================
+
+Python in Excelの使い方（基本編）
+=================================
+
+Python in Excelの使い方（応用編）
+=================================
+
+Copilot for Microsoft 365サポートについて紹介
+=============================================
+
+最後に
+======
+
+まとめ
+------
