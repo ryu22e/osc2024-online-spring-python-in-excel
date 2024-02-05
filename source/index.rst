@@ -103,7 +103,9 @@ Python in Excelの使い方（応用編）
 Python in Excelのベストプラクティスとは
 ---------------------------------------
 
-TODO あとで書く
+Load raw data, convert once, and reuse
+
+https://freelearning.anaconda.cloud/get-started-with-python-in-excel-course/113133
 
 横浜市のオープンデータを使ってみる
 ----------------------------------
