@@ -107,6 +107,13 @@ Load raw data, convert once, and reuse
 
 https://freelearning.anaconda.cloud/get-started-with-python-in-excel-course/113133
 
+つまり、どういうことか
+----------------------
+
+* データはそのままだと使いにくい場合がよくあるが、直接加工しない方がいい
+* 直接加工してしまうと再利用が難しくなるので
+* データの加工はPythonで行う
+
 横浜市のオープンデータを使ってみる
 ----------------------------------
 
