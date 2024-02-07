@@ -148,4 +148,7 @@ TODO あとで書く
 ご清聴ありがとうございました
 ----------------------------
 
-TODO あとで書く
+.. figure:: thank-you-for-your-attention.*
+   :alt: AIが考えた「Python in Excelのパワーのおかげで爆速で仕事を進めるビジネスマン」
+
+   AIが考えた「Python in Excelのパワーのおかげで爆速で仕事を進めるビジネスマン」
