@@ -100,6 +100,27 @@ TODO あとで書く
 Python in Excelの使い方（応用編）
 =================================
 
+Python in Excelに関する情報ソース(1)
+------------------------------------
+
+Microsoft公式サイト（日本語）
+
+https://support.microsoft.com/ja-jp/office/python-in-excel-%E3%81%AE%E6%A6%82%E8%A6%81-55643c2e-ff56-4168-b1ce-9428c8308545
+
+Python in Excelに関する情報ソース(2)
+------------------------------------
+
+Anacondaのチュートリアル動画（英語）
+
+https://freelearning.anaconda.cloud/get-started-with-python-in-excel-course
+
+Python in Excelに関する情報ソース(3)
+------------------------------------
+
+Anacondaの公式ブログ（英語）
+
+https://www.anaconda.com/resource-topic/python-in-excel
+
 Python in Excelのベストプラクティスとは
 ---------------------------------------
 
