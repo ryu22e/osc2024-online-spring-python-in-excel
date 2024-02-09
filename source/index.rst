@@ -50,12 +50,15 @@ Python in Excelとは
 * ``=PY()`` というExcel関数を使って、ExcelのセルにPythonコードを埋め込める
 * 2024年3月2日現在、Python in Excelはプレビュー段階の機能で、Windows版Excel（Excel for Windows）のみで利用可能
 
-導入方法
---------
+導入方法(1)
+-----------
 
 プレビュー段階の機能を利用するには、「Microsoft 365 Insider」のベータチャネルにサインアップする。
 
-TODO スクショを入れる
+導入方法(2)
+-----------
+
+.. video:: _static/mp4/how-to-install-python-in-excel.mp4
 
 どんな仕組みか
 --------------
