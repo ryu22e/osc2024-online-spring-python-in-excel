@@ -63,10 +63,10 @@ Python in Excelとは
 どんな仕組みか
 --------------
 
-* PythonコードはMicrosoft Cloud上で実行される
-* ローカル環境にPythonのインストールは不要
+.. figure:: python-in-excel-image.*
+   :alt: PythonコードはMicrosoft Cloud上で実行される
 
-TODO イメージ図を入れる
+   PythonコードはMicrosoft Cloud上で実行される
 
 セキュリティについて
 --------------------
