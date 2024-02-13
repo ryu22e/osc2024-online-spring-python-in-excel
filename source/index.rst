@@ -158,7 +158,9 @@ https://freelearning.anaconda.cloud/get-started-with-python-in-excel-course/1131
 横浜市のオープンデータを使ってみる
 ----------------------------------
 
-TODO あとで書く
+横浜市が公開している有効求人倍率のデータをグラフ化してみる。
+
+https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/opendata/rodo-kyujin.html
 
 Copilot for Microsoft 365サポートについて紹介
 =============================================
