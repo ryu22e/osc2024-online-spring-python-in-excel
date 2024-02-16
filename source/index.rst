@@ -194,7 +194,7 @@ Copilot for Microsoft 365サポートについて紹介
 Copilot for Microsoft 365とは
 -----------------------------
 
-TODO あとで書く
+Microsoft 365 アプリ（Word、Excel、PowerPoint、Outlook、Teamsなど）と連携して大規模言語モデル (LLM) を利用できるアプリ。
 
 導入方法
 --------
@@ -204,7 +204,7 @@ TODO あとで書く
 実際に使ってみる
 ----------------
 
-TODO あとで書く
+デモをやります。
 
 最後に
 ======
