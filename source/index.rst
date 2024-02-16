@@ -98,6 +98,18 @@ Python in Excelの使い方（基本編）
 
 デモをやります。
 
+「コアライブラリ」とは
+----------------------
+
+* Python in ExcelではAnacondaに同梱されているライブラリの一部が利用できる
+* よく使うライブラリはimport文を書かずに使える
+* これを「コアライブラリ」と呼ぶ
+
+コアライブラリの一覧
+--------------------
+
+`Excel のオープンソース ライブラリと Python - Microsoft サポート <https://support.microsoft.com/ja-jp/office/excel-%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9-%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%A8-python-c817c897-41db-40a1-b9f3-d5ffe6d1bf3e>`_ を参照。
+
 「出力形式」とは
 ----------------
 
