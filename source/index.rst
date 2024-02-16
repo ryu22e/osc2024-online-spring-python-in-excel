@@ -199,7 +199,9 @@ Microsoft 365 アプリ（Word、Excel、PowerPoint、Outlook、Teamsなど）�
 導入方法
 --------
 
-TODO あとで書く
+「Microsoft 365 Business Standard」または「Microsoft 365 Business Premium」を購入する。
+
+https://www.microsoft.com/ja-jp/microsoft-365/business/compare-all-microsoft-365-business-products
 
 実際に使ってみる
 ----------------
