@@ -17,6 +17,15 @@ Python in Excelの紹介（仮）
 * Python Boot Camp、Shonan.py、GCPUG Shonanなどコミュニティ活動もしています
 * 著書（共著）：『 `Python実践レシピ <https://gihyo.jp/book/2022/978-4-297-12576-9>`_ 』
 
+[PR]4/11(木) 20:30に「Python Boot Camp オンライン相談会 - Spring'24」を開催します
+---------------------------------------------------------------------------------
+
+Pythonチュートリアルイベント「Python Boot Camp」の開催に興味がある人向けにオンライン相談会を開催します。
+
+4/11(木) 20:30開催です。参加登録先はこちら↓
+
+https://pyconjp.connpass.com/event/310564/
+
 今日話したいこと
 ----------------
 
@@ -181,12 +190,27 @@ https://freelearning.anaconda.cloud/get-started-with-python-in-excel-course/1131
 * 直接加工してしまうと再利用が難しくなるので
 * データの加工はPythonで行う
 
-横浜市のオープンデータを使ってみる
-----------------------------------
+横浜市のオープンデータを使ってみる（デモ）
+------------------------------------------
 
 横浜市が公開している有効求人倍率のデータをグラフ化してみる。
 
 https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/opendata/rodo-kyujin.html
+
+Power Queryと組み合わせてみる（デモ）
+-------------------------------------
+
+以下サイトのスクレピングをやってみる。
+
+https://www.pycon.jp/support/bootcamp.html
+
+Python in ExcelでのPythonの実行順序
+-----------------------------------
+
+* 一番上の行から実行される
+* 行ごとに、一番左のセルから最後のセルまで実行される
+
+参考: `Excel での Python の概要 - Microsoft サポート <https://support.microsoft.com/ja-jp/office/excel-%E3%81%A7%E3%81%AE-python-%E3%81%AE%E6%A6%82%E8%A6%81-a33fbcbe-065b-41d3-82cf-23d05397f53d>`_ の「計算順序」
 
 Copilot for Microsoft 365サポートについて紹介
 =============================================
