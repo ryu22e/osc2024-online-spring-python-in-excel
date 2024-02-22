@@ -55,7 +55,6 @@ Excelの新機能「Python in Excel」について紹介します。
 * Python in Excelの概要
 * Python in Excelの使い方（基本編）
 * Python in Excelの使い方（応用編）
-* Copilot for Microsoft 365サポートについて紹介
 
 Python in Excelの概要
 =====================
@@ -212,33 +211,17 @@ Python in ExcelでのPythonの実行順序
 
 参考: `Excel での Python の概要 - Microsoft サポート <https://support.microsoft.com/ja-jp/office/excel-%E3%81%A7%E3%81%AE-python-%E3%81%AE%E6%A6%82%E8%A6%81-a33fbcbe-065b-41d3-82cf-23d05397f53d>`_ の「計算順序」
 
-Copilot for Microsoft 365サポートについて紹介
-=============================================
-
-Copilot for Microsoft 365とは
------------------------------
-
-Microsoft 365 アプリ（Word、Excel、PowerPoint、Outlook、Teamsなど）と連携して大規模言語モデル (LLM) を利用できるアプリ。
-
-導入方法
---------
-
-「Microsoft 365 Business Standard」または「Microsoft 365 Business Premium」を購入する。
-
-https://www.microsoft.com/ja-jp/microsoft-365/business/compare-all-microsoft-365-business-products
-
-実際に使ってみる
-----------------
-
-デモをやります。
-
 最後に
 ======
 
 まとめ
 ------
 
-TODO あとで書く
+* Python in Excelは、セルにPythonコードを埋め込める機能
+* Pythonコードはクラウド上で動くのでローカルでのPythonインストールは不要
+* 不正なコードを実行しないようにセキュリティもバッチリ
+* Anacondaの一部ライブラリが使える
+* Power Queryと組み合わせると超便利
 
 ご清聴ありがとうございました
 ----------------------------
