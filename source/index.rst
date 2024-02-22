@@ -1,6 +1,6 @@
-###########################
-Python in Excelの紹介（仮）
-###########################
+#####################
+Python in Excelの紹介
+#####################
 .. raw:: html
 
    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><small>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</small>
@@ -207,7 +207,7 @@ https://www.pycon.jp/support/bootcamp.html
 Python in ExcelでのPythonの実行順序
 -----------------------------------
 
-* 一番上の行から実行される
+* 一番左のシート、一番上の行から実行される
 * 行ごとに、一番左のセルから最後のセルまで実行される
 
 参考: `Excel での Python の概要 - Microsoft サポート <https://support.microsoft.com/ja-jp/office/excel-%E3%81%A7%E3%81%AE-python-%E3%81%AE%E6%A6%82%E8%A6%81-a33fbcbe-065b-41d3-82cf-23d05397f53d>`_ の「計算順序」
