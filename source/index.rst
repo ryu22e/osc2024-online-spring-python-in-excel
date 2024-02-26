@@ -154,6 +154,8 @@ Excelの値
 Python in Excelの使い方（応用編）
 =================================
 
+:download:`デモで使うサンプルファイル <_static/excel/example.xlsx>`
+
 Python in Excelに関する情報ソース(1)
 ------------------------------------
 
