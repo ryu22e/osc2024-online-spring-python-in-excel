@@ -1,6 +1,14 @@
+:og:description: Python in Excelの概要と使い方について説明します。
+:og:image: _images/thank-you-for-your-attention.jpg
+
 #####################
 Python in Excelの紹介
 #####################
+
+Ryuji Tsutsui
+
+Open Source Conference 2024 Online/Spring資料
+
 .. raw:: html
 
    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><small>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</small>
