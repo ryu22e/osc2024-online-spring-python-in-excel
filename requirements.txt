@@ -4,4 +4,4 @@ budoux==0.6.2
 beautifulsoup4==4.12.3
 sphinxcontrib-video==0.2.0
 sphinxext-opengraph==0.9.1
-matplotlib==3.8.2
+matplotlib==3.8.3
